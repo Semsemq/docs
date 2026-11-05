@@ -101,7 +101,7 @@
     "js-yaml": "^4.1.0",
     "liquidjs": "^10.7.0",
     "lodash": "^4.17.21",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.18.1",
     "lowdb": "6.0.0",
     "mdast-util-from-markdown": "^1.2.0",
     "mdast-util-to-hast": "^12.3.0",
